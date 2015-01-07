@@ -1,5 +1,5 @@
 username: kongbai
-baseurl: /StrayBirds
+baseurl: /dream
 markdown: redcarpet
 safe: false
 pygments: true
