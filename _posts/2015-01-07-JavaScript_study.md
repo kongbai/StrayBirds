@@ -12,7 +12,7 @@ Boolean(null);//输出false
 Boolean(0);//输出false
 Boolean(NaN);//输出false
 
--------------------------------
+//-------------------------------
 
 Boolean([]);//输出true
 Boolean({});//输出true
