@@ -9,13 +9,6 @@ title: JavaScript学习
 我来测试一下
 {% highlight javascript %}
 
-var v1 = new Number(123);
-var v2 = new String("abc");
-var v3 = new Boolean(true);
-
-{% endhighlight %}
-//测试完成
-```java
 Boolean(undefined);//输出false
 Boolean(null);//输出false
 Boolean(0);//输出false
@@ -27,5 +20,5 @@ Boolean([]);//输出true
 Boolean({});//输出true
 Boolean(function(){});//输出true
 Boolean(/sary/);//输出true
-```
+{% endhighlight %}
 
