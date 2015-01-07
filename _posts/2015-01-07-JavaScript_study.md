@@ -6,6 +6,15 @@ title: JavaScript学习
 ### JavaScript中的布尔值转化
 值得注意的布尔值的转化，一开始还以为空数组，空对象也会返回false，结果我错了！长见识了！
 
+我来测试一下
+{% highlight javascript %}
+
+var v1 = new Number(123);
+var v2 = new String("abc");
+var v3 = new Boolean(true);
+
+{% endhighlight %}
+//测试完成
 ```java
 Boolean(undefined);//输出false
 Boolean(null);//输出false
