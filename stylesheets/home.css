@@ -5,12 +5,12 @@
 	font-size: 20px;
 }
 h1 h2 h3 h4 h5 h6{
-	color:white;
+	color:white  !important;;
 }
 .wrapper header{
 	height: 66px;
 	width: 1400px;
-	background: #000000;
+	background: #000000 ;
 	padding: 0;
 }
 .wrapper header nav{
@@ -19,7 +19,8 @@ h1 h2 h3 h4 h5 h6{
 }
 
 .wrapper header ul{
-	text-align: center;
+	text-align: center ;
+	background:#000000;
 }
 .wrapper header li{
 	display: inline-block;
