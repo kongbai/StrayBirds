@@ -4,38 +4,38 @@
 	font-family: 方正舒体;
 	font-size: 20px;
 }
-header{
+.wrapper header{
 	height: 66px;
 	width: 1400px;
 	background: #000000;
 	padding: 0;
 }
-header nav{
+.wrapper header nav{
 	margin: 0 auto;
 	padding: 10px;
 }
 
-header ul{
+.wrapper header ul{
 	text-align: center;
 }
-header li{
+.wrapper header li{
 	display: inline-block;
 	margin:12px 165px 0px 0px;
 	list-style-type:none;
 	color: white;
 }
 
-footer{
+.wrapper footer{
 	height: 66px;
 	width: 1400px;
 	background-color: #000000;
 	color: white;
 }
-footer ul{
+.wrapper footer ul{
 	text-align: center;
 	padding: 18px 0px 0px 0px;
 }
-footer li{
+.wrapper footer li{
 	display: inline-block;
 	margin:0px 54px 0px 0px;
 	list-style-type:none;
