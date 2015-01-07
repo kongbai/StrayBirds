@@ -1,0 +1,28 @@
+html {
+  background: #FFFFFF;
+  background: #FFFFFF -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF)) fixed;
+  background: #FFFFFF -webkit-linear-gradient(#FFFFFF, #FFFFFF) fixed;
+  background: #FFFFFF -moz-linear-gradient(#FFFFFF, #FFFFFF) fixed;
+  background: #FFFFFF -o-linear-gradient(#FFFFFF, #FFFFFF) fixed;
+  background: #FFFFFF -ms-linear-gradient(#FFFFFF, #FFFFFF) fixed;
+  background: #FFFFFF linear-gradient(#FFFFFF, #FFFFFF) fixed;
+}
+
+
+header {
+  -webkit-border-radius: 8px 8px 0 0;
+  -moz-border-radius: 8px 8px 0 0;
+  -ms-border-radius: 8px 8px 0 0;
+  -o-border-radius: 8px 8px 0 0;
+  border-radius: 8px 8px 0 0;
+  background: #ECA6DB;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ECA6DB), color-stop(100%, #FFFFFF));
+  background: -webkit-linear-gradient(#ECA6DB, #FFFFFF);
+  background: -moz-linear-gradient(#ECA6DB, #FFFFFF);
+  background: -o-linear-gradient(#ECA6DB, #FFFFFF);
+  background: -ms-linear-gradient(#ECA6DB, #FFFFFF);
+  background: linear-gradient(#ECA6DB, #FFFFFF);
+  position: relative;
+  padding: 25px 30px;
+  border-bottom: 1px solid #B2D2E1;
+}
